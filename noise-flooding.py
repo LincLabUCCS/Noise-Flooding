@@ -396,4 +396,4 @@ def test_voting_ensembles():
     print("F1 Score: ", f1)
             
 recalls = test_ensemble_classification()
-
+print(recalls)
